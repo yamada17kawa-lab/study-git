@@ -17,7 +17,7 @@
 	1、git remote add 仓库别名 仓库地址
 	2、git push -u 仓库别名 仓库分支
 	3、git remote -v
-	4、git pull 仓库别名 仓库分支:本地分支
+	4、git pull 仓库别名 本地分支:仓库分支
 	
 	
 工作区域
