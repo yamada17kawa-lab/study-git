@@ -46,6 +46,7 @@
 	3、git checkout 分支名\git switch 分支名
 	4、git merge 被合并的分支名
 	5、git branch -d 分支名\git branch -D 分支名
+	6、git branch -m 旧分支名 新分支名
 	
 合并冲突
 	不同分支修改了同一份文件，git不知道要哪份
